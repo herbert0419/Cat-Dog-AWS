@@ -43,7 +43,7 @@
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/simple-app
+    - Save the URI: 112573255835.dkr.ecr.ap-south-1.amazonaws.com/dogcataws
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
